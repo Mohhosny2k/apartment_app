@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "325302347100",
+    "project_id": "instantapp-cc7bc",
+    "storage_bucket": "instantapp-cc7bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325302347100:android:b5c1b9024eafe019278d99",
+        "android_client_info": {
+          "package_name": "com.example.apartment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325302347100-pag5lu2mucj7qoq6qmnq1211o3kulfvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ6I9YfZ0M3YU2gtYiaUrOOLpTAYSWVS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325302347100-pag5lu2mucj7qoq6qmnq1211o3kulfvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325302347100:android:ac180227b8dc977f278d99",
+        "android_client_info": {
+          "package_name": "com.examplee.apartment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325302347100-bvnene3780om2qtrd4nmhr8k6op0jopq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examplee.apartment_app",
+            "certificate_hash": "0e7a47d05a0f28e05aa2ec8c222dc1ebde762f20"
+          }
+        },
+        {
+          "client_id": "325302347100-pag5lu2mucj7qoq6qmnq1211o3kulfvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ6I9YfZ0M3YU2gtYiaUrOOLpTAYSWVS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325302347100-pag5lu2mucj7qoq6qmnq1211o3kulfvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
